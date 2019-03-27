@@ -1,6 +1,6 @@
 ## Fetch Robot Implementation
 
-Fetch robot movement implementation in Gazebo using MoveIt and Graspit simulators
+Fetch robot movement implementation in Gazebo using MoveIt to plan its motion and for the IK service while Graspit simulators for planning the grasp
 
 Task 1: https://www.youtube.com/watch?v=ouAwdQ3jc3w<br />
 Task 2: https://www.youtube.com/watch?v=BNzgztiov-c<br />
